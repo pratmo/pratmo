@@ -1,4 +1,5 @@
 ### Hi there 👋
+### In this repo you'll find Python, R and Verilog codes
 
 <!--
 **pratmo/pratmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
