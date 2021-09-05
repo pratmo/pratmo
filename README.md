@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathik Mohan</h1>
-<h3 align="center">I'm a passionate engineer from India. Though I have fewer office hours to show on paper for my age, but ever since my first work/internship in 2009, I have gained several years of real work-life experiences switching between my post-grad studies and several jobs. Along the journey, I did make few mistakes and learnt from them, and as a result, I see myself polished enough to face any upcoming challenges!</h3>
+<h3 align="center">I'm a passionate engineer from India. Though I have fewer office hours to show on paper for my age, but ever since my first work/internship in 2009, I have gained several years of real work-life experiences switching between my post-grad studies and several jobs. Along the journey, I did make several mistakes and learnt from them, and as a result, I see myself polished enough to face any upcoming challenges!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat" alt="pratmo" /> </p>
 
