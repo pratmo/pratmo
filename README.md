@@ -15,3 +15,5 @@ Under-construction
 ![Prathik's github stats](https://github-readme-stats.vercel.app/api?username=pratmo)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratmo&" alt="pratmo" /></p>
+
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=horry-putter-madlib-game&show_owner=true)](https://github.com/pratmo/horry-putter-madlib-game)
