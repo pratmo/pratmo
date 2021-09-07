@@ -5,7 +5,9 @@ I'm a passionate engineer from India. This repository contains collection of dat
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat" alt="pratmo" /> </p>
 
 <h2 align="left">Contents:</h2>
-Under-construction
+
+* **Under Construction**
+  * Second Bullet
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
