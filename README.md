@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Prathik Mohan</h1>
+<h2 align="center">Hi 👋, I'm Prathik </h1>
 
 I'm a passionate engineer from India. This repository contains collection of data science and python projects completed by me at work, for academic, self learning purposes, and during my leisure time. It is presented in the form of iPython Notebooks, as well as Python and R files.</h3>
 
