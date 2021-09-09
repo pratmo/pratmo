@@ -18,7 +18,7 @@ I'm a passionate engineer from India. This repository contains collection of my 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratmo&" alt="pratmo" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
 [![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=horry-putter-madlib-game&show_owner=true)](https://github.com/pratmo/horry-putter-madlib-game)
 
