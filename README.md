@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Prathik </h1>
 
-I'm a passionate engineer from India. This repository contains collection of my data science and python projects done at work, for academic, self learning purposes, and during my leisure time. It is presented in the form of iPython Notebooks, as well as Python and R files.</h3>
+I'm a passionate engineer from India. This repository contains collection of my data science and python projects done at work, for academic and self learning purposes. It is presented in the form of iPython Notebooks, as well as Python and R files.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat" alt="pratmo" /> </p>
 
