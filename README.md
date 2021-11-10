@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋, I'm Prathik </h1>
-
-A repository constaining data science and machine learning projects in the form of iPython Notebooks, as well as Python and R files.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat" alt="pratmo" /> </p>
 
 <h2 align="left">Contents:</h2>
