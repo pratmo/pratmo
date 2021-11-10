@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat" alt="pratmo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratmo&label=Profile%20views&color=0e75b6&style=flat&label=Profile+Visits" alt="pratmo" /> </p>
 
 <h2 align="left">Contents:</h2>
 
