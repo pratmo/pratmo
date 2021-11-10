@@ -10,9 +10,9 @@
 <a href="https://linkedin.com/in/prathikmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathikmohan" height="30" width="40" /></a>
 </p>
 
-![Prathik's github stats](https://github-readme-stats.vercel.app/api?username=pratmo&count_private=true)
+<!---![Prathik's github stats](https://github-readme-stats.vercel.app/api?username=pratmo&count_private=true)--->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratmo&" alt="pratmo" /></p>
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratmo&" alt="pratmo" /></p>--->
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
