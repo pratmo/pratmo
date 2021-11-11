@@ -3,8 +3,12 @@
 <h2 align="left">Contents:</h2>
 
 * **Coding Algorithm Series**
-  * Supervised Machine Learning Algorithms: 
-  * Unsupervised Machine Learning Algorithms: 
+  * Supervised Machine Learning Algorithms:
+    * Regression -
+    * Classification -
+  * Unsupervised Machine Learning Algorithms:
+    * Dimensionality Reduction -
+    * Clustering -
 
 * **Projects**
 
