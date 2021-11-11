@@ -3,7 +3,8 @@
 <h2 align="left">Contents:</h2>
 
 * **Coding Algorithm Series**
-  * Second Bullet
+  * Supervised Machine Learning Algorithms: 
+  * Unsupervised Machine Learning Algorithms: 
 
 * **Projects**
 
