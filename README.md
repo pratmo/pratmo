@@ -9,6 +9,7 @@
   * Unsupervised Machine Learning Algorithms:
     * Dimensionality Reduction -
     * Clustering -
+    * Association Rules - 
 
 * **Projects**
 
