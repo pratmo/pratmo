@@ -2,8 +2,10 @@
 
 <h2 align="left">Contents:</h2>
 
-* **Under Construction**
+* **Coding Algorithm Series**
   * Second Bullet
+
+* **Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
