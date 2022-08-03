@@ -4,7 +4,7 @@
 
 * **Coding Algorithm Series**
   * Supervised Machine Learning Algorithms:
-    * Regression -
+    * Regression - Linear Regression (using statsmodels and scikit-learn, ft. correlation, p-value analysis, multicollinearity, VIF, residual and regressor plots, model deletion diagnostics like cook's distance and H.influence points)
     * Classification -
   * Unsupervised Machine Learning Algorithms:
     * Dimensionality Reduction -
