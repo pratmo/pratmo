@@ -13,6 +13,7 @@
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=dbscan-wholesale-cust&show_owner=true)](https://github.com/pratmo/dbscan-wholesale-cust) [![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=50-startup-prob-multi-regression&show_owner=true)](https://github.com/pratmo/50-startup-prob-multi-regression)
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=Threadify&show_owner=true)](https://github.com/pratmo/Threadify) [![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=dbscan-wholesale-cust&show_owner=true)](https://github.com/pratmo/dbscan-wholesale-cust) [![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=50-startup-prob-multi-regression&show_owner=true)](https://github.com/pratmo/50-startup-prob-multi-regression) [![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=horry-putter-madlib-game&show_owner=true)](https://github.com/pratmo/horry-putter-madlib-game)
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=pratmo&repo=horry-putter-madlib-game&show_owner=true)](https://github.com/pratmo/horry-putter-madlib-game)
+
+
